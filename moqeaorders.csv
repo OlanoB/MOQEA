@@ -1,0 +1,42 @@
+orderNo,customerID,shipVia,shipCost,paymentMethods,totalAmount,destination,orderDate
+OR001,M0XD0012,FedEx,$20 ,visa card ,,Cairo,3/3/2021
+OR002,M0XD0013,UPS,$90 ,master card,,Lagos,3/3/2021
+OR003,M0XD0014,walk in ,-,mobile payment,,Accra,3/3/2021
+OR004,M0XD0015,DHL ,$80 ,Debit Card,,Kigali,3/3/2021
+OR005,M0XD0016,Blue Dart,$10 ,master card,,Antananrivo,3/3/2021
+OR006,M0XD0017,AeroLogic,$45 ,visa card ,,Ceuta,3/4/2021
+OR007,M0XD0018,DHL ,$100 ,master card,,Algiers,3/4/2021
+OR008,M0XD0019,UPS,$90 ,visa card ,,Maputo,3/4/2021
+OR009,M0XD0020,FedEx,$45 ,master card,,Takoradi,3/5/2021
+OR010,M0XD0021,DHL ,$50 ,mobile payment,,Nairobi,3/5/2021
+OR011,M0XD0022,DHL ,$45 ,visa card ,,Accra,3/5/2021
+OR012,M0XD0023,FedEx,$90 ,master card,,Kigali,3/5/2021
+OR013,M0XD0024,DHL ,$50 ,master card,,Antananrivo,3/6/2021
+OR014,M0XD0025,UPS,$90 ,visa card ,,Lagos,3/6/2021
+OR015,M0XD0026,DHL ,$35 ,Debit Card,,Ceuta,3/6/2021
+OR016,M0XD0027,AeroLogic,$45 ,mobile payment,,Takoradi,3/6/2021
+OR017,M0XD0028,FedEx,$50 ,visa card ,,Lagos,3/6/2021
+OR018,M0XD0029,DHL ,$45 ,Debit Card,,Cairo,3/11/2021
+OR019,M0XD0030,DHL ,$25 ,visa card ,,Accra,3/11/2021
+OR020,M0XD0031,FedEx,$23 ,master card,,Maputo,3/11/2021
+OR021,M0XD0032,DHL ,$50 ,master card,,Takoradi,3/11/2021
+OR022,M0XD0033,UPS,$23 ,Debit Card,,Kigali,3/16/2021
+OR023,M0XD0034,DHL ,$70 ,visa card ,,Cairo,3/16/2021
+OR024,M0XD0035,FedEx,$50 ,mobile payment,,Antananrivo,3/17/2021
+OR025,M0XD0036,UPS,$12 ,mobile payment,,Nairobi,3/18/2021
+OR026,M0XD0037,AeroLogic,$80 ,master card,,Ceuta,3/19/2021
+OR027,M0XD0038,FedEx,$50 ,visa card ,,Lagos,3/20/2021
+OR028,M0XD0039,UPS,$80 ,mobile payment,,Antananrivo,3/21/2021
+OR029,M0XD0040,walk in ,-,master card,,Cairo,3/22/2021
+OR030,M0XD0041,FedEx,$50 ,,,Takoradi,3/22/2021
+OR031,M0XD0042,walk in ,-,,,Ceuta,3/22/2021
+OR032,M0XD0043,walk in ,-,mobile payment,,Algiers,3/22/2021
+OR033,M0XD0044,FedEx,$50 ,,,Algiers,3/22/2021
+OR034,M0XD0045,Blue Dart,$10 ,,,Nairobi,3/23/2021
+OR035,M0XD0046,FedEx,$50 ,visa card ,,Maputo,3/23/2021
+OR036,M0XD0047,Blue Dart,$10 ,,,Accra,3/24/2021
+OR037,M0XD0048,walk in ,-,,,Kigali,3/25/2021
+OR038,M0XD0049,FedEx,$50 ,master card,,Cairo,3/26/2021
+OR039,M0XD0050,Blue Dart,$10 ,master card,,Takoradi,3/27/2021
+OR040,M0XD0051,Blue Dart,$10 ,,,Nairobi,3/28/2021
+OR041,M0XD0052,FedEx,$50 ,mobile payment,,Ceuta,3/29/2021
