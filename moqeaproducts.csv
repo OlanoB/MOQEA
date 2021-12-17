@@ -1,0 +1,24 @@
+productID,productType,productModel,specs,iStock
+L00333,Laptop,LENOVO T480S,"RAM-8GB,256ssd, i5, 8th gen",15
+L00334,Laptop,"HP envy, 17t-ch100","RAM-16GB,512 SSD , i5  , 11th gen ",9
+L00335,Laptop,"Hp envy, 15t-es00PC","RAM-8GB,256ssd, i5, 11th gen",3
+L00336,Laptop,DELL inspiron ,"RAM-8GB, ITB HDD, i5, 7th gen",9
+L00337,Laptop,LENOVO E14,"RAM-4, 128SSD, i3,6th gen, ",16
+L00343,Laptop,DELL Alienware  m156R6,"RAM8GB, i7, , 512 SSB,11th gen",6
+C0133,Copier,CANON imageRUNNER 2424,"RAM-2GB, Print speed 25ppm",13
+C0134,Copier,HP colour laserjet 4730,"RAM-1GB, print speed31ppm",40
+D0235,Desktop Computer ,HP pavilion ryzen 75700G,"RAM-16GB,500HDD , i5  , 11th gen ",10
+D0236,Desktop Computer ,"HP ALL-in-one Desktop PC, ","RAM8GB, i3, , 512 SSB,11th gen",7
+D0237,Desktop Computer ,DELL Mni PC 13 7020U2,"RAM-4GB, 256SSD, i5, 7th gen",5
+D0238,Desktop Computer ,XPS DESKPTOP ,"RAM-8GB, 1TB HDD, i5, 11th gen ",4
+D0239,Desktop Computer ,iMAC MXWUHN,"RAM-8GB, 500HDD, MAC- OS",12
+S0340,Scanner ,Brother DS-640 compact mobile ,potable ,4
+S0341,Scanner ,Fujitsu ScanSnap Ix1400 simple,one touch button Document ,6
+S0344,Scanner ,cannon canoscan Lide 300,quick scan,7
+P0234,Printer,Epson L310 ink Tank Printer ,black and white ,8
+P0235,Printer,canon Pixma MG3620 wireless,"coloured, black and white ",12
+P0236,Printer,imageCLASS LB228x ,"38ppm, black and white",9
+Ph0237,Phones ,"iPHONE 13 pro, 128GB, iOS 15",All colours,45
+Ph0238,Phones ,"iPHONE 1 pro, 64GB, iOS 15",All colours,23
+Ph0239,Phones ,Sumsung Galaxy S21 Ultra,All colours,12
+Ph0240,Phones ,Nova 8 Pro 5G,All colours,23
